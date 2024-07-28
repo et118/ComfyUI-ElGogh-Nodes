@@ -1,0 +1,1 @@
+[ComfyUI](https://github.com/comfyanonymous/ComfyUI) custom nodes for [El Gogh V2] https://github.com/et118/El_Gogh. The nodes are copies of existing ones, but have different names so that El Gogh can distinguish them
